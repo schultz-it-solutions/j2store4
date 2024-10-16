@@ -1,3 +1,20 @@
+**from Ruediger Schultz, Schultz IT Solutions, https://it-solutions.schultz.ch 2024-10-16**
+
+Dear J2Store Community,
+
+After I camee to know that cartrabbit will no longer maintain/develop J2Store, I found myself in a (not at all unknown) unexpected situation.
+We are running several J2Store websites, and one in particuar where I did heavily develop additional functionality to integrate J2Store with the other functionality of that website.
+So migrating the shop system to another component will be a major headache for me.
+
+Therefore I created this fork for our own purposes - I see there is a number of other forks, and maybe we can join forces to keep this product alive...
+kind regards
+Ruediger Schultz
+Schultz IT Solutions
+
+
+******************************************************************************************************************************************************
+
+**from Ramesh Elamathi at https://www.cartrabbit.io 2024-10-14**
 **Important Announcement: Sunsetting J2Store Development**
 
 Dear J2Store Community,
